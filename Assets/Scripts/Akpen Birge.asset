@@ -1,0 +1,7531 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aecb67dff1a9ec47bca84e3f55adf0c, type: 3}
+  m_Name: Akpen Birge
+  m_EditorClassIdentifier: 
+  saved: 0
+  clip: {fileID: 8300000, guid: 0d49ff037f395cf49b05974db75ecd0d, type: 3}
+  baseBPM: 128
+  numBeats: 626
+  frets:
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 0
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 2.34375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 4.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 7.03125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 9.375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 11.71875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 14.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 16.40625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 18.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 21.09375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 23.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 25.78125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 28.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 30.46875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 32.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 35.15625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 37.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 39.84375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 42.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 44.53125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 46.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 49.21875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 51.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 53.90625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 56.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 58.59375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 60.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 63.28125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 65.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 67.96875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 70.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 72.65625
+    mainFret: 1
+    speed: 5
+    notePresent: 000001
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: start
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 75
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 77.34375
+    mainFret: 1
+    speed: 5
+    notePresent: 000001
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 79.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 82.03125
+    mainFret: 1
+    speed: 5
+    notePresent: 000001
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 84.375
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 86.71875
+    mainFret: 1
+    speed: 5
+    notePresent: 000001
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 89.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 91.40625
+    mainFret: 1
+    speed: 5
+    notePresent: 000001
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 93.75
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 96.09375
+    mainFret: 1
+    speed: 5
+    notePresent: 000001
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 98.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 100.78125
+    mainFret: 1
+    speed: 5
+    notePresent: 000001
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 103.125
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 105.46875
+    mainFret: 1
+    speed: 5
+    notePresent: 000001
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 107.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 110.15625
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 112.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 114.84375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 117.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 119.53125
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 121.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 124.21875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 126.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 128.90625
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 131.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 133.59375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 135.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 138.28125
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 140.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 142.96875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 145.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 147.65625
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 150
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 152.34375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 154.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 157.03125
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 159.375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 161.71875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 164.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 166.40625
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 168.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 171.09375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 173.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 175.78125
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 178.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 180.46875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 182.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 185.15625
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 187.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 189.84375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 192.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 194.53125
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 196.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 199.21875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 201.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 203.90625
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 206.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 208.59375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 210.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 213.28125
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 215.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 217.96875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 220.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 222.65625
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 225
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 227.34375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 229.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 232.03125
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 234.375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 236.71875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 239.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 241.40625
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 243.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 246.09375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 248.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 250.78125
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 253.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 255.46875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 257.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 260.15625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: verse 1
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 262.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 264.84375
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 267.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 269.53125
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 271.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 274.21875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 276.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 278.90625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 281.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 283.59375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 285.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 288.28125
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 290.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 292.96875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 295.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 297.65625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 300
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 302.34375
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 304.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 307.03125
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 309.375
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 311.71875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 314.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 316.40625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 318.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 321.09375
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 323.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 325.78125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 328.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 330.46875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 332.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 335.15625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 337.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 339.84375
+    mainFret: 1
+    speed: 5
+    notePresent: 000001
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 342.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 344.53125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 346.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 349.21875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 351.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 353.90625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 356.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 358.59375
+    mainFret: 1
+    speed: 5
+    notePresent: 000001
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 360.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 363.28125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 365.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 367.96875
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 370.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 372.65625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 377.34375
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 379.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 382.03125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 384.375
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 386.71875
+    mainFret: 1
+    speed: 5
+    notePresent: 000001
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 389.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 391.40625
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 393.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 396.09375
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 398.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 400.78125
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 403.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 405.46875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 407.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 410.15625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 412.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 414.84375
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 417.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 419.53125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 421.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 424.21875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 426.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 428.90625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 431.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 433.59375
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 435.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 438.28125
+    mainFret: 1
+    speed: 5
+    notePresent: 000001
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 440.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 442.96875
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 445.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 010000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 447.65625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 450
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 452.34375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 454.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 457.03125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 459.375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 461.71875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 464.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 466.40625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 468.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 471.09375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 473.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 475.78125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 478.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 480.46875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 482.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 485.15625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 487.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 489.84375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 492.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 494.53125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 496.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 499.21875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 501.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 503.90625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 506.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 508.59375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 510.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 513.28125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 515.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 517.96875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 520.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 522.65625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 525
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 527.34375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 529.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 532.03125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 534.375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 536.71875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 539.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 541.40625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 543.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 546.09375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 548.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 550.78125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 553.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 555.46875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 557.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 560.15625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 562.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 564.84375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 567.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 569.53125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 571.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 574.21875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 576.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 578.90625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 581.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 583.59375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 585.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 588.28125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 590.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 592.96875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 595.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 597.65625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 600
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 602.34375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 604.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 607.03125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 609.375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 611.71875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 614.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 616.40625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 618.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 621.09375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 623.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 625.78125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 628.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 630.46875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 632.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 635.15625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 637.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 639.84375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 642.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 644.53125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 646.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 649.21875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 651.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 653.90625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 656.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 658.59375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 660.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 663.28125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 665.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 667.96875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 670.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 672.65625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 675
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 677.34375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 679.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 682.03125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 684.375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 686.71875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 689.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 691.40625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 693.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 696.09375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 698.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 700.78125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 703.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 705.46875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 707.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 710.15625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 712.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 714.84375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 717.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 719.53125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 721.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 724.21875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 726.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 728.90625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 731.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 733.59375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 735.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 738.28125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 740.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 742.96875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 745.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 747.65625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 750
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 752.34375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 754.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 757.03125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 759.375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 761.71875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 764.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 766.40625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 768.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 771.09375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 773.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 775.78125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 778.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 780.46875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 782.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 785.15625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 787.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 789.84375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 792.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 794.53125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 796.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 799.21875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 801.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 803.90625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 806.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 808.59375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 810.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 813.28125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 815.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 817.96875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 820.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 822.65625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 825
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 827.34375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 829.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 832.03125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 834.375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 836.71875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 839.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 841.40625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 843.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 846.09375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 848.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 850.78125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 853.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 855.46875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 857.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 860.15625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 862.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 864.84375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 867.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 869.53125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 871.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 874.21875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 876.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 878.90625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 881.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 883.59375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 885.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 888.28125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 890.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 892.96875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 895.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 897.65625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 900
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 902.34375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 904.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 907.03125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 909.375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 911.71875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 914.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 916.40625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 918.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 921.09375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 923.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 925.78125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 928.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 930.46875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 932.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 935.15625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 937.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 939.84375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 942.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 944.53125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 946.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 949.21875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 951.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 953.90625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 956.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 958.59375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 960.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 963.28125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 965.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 967.96875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 970.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 972.65625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 975
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 977.34375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 979.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 982.03125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 984.375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 986.71875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 989.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 991.40625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 993.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 996.09375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 998.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1000.78125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1003.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1005.46875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1007.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1010.15625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1012.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1014.84375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1017.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1019.53125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1021.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1024.2188
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1026.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1028.9062
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1031.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1033.5938
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1035.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1038.2812
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1040.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1042.9688
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1045.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1047.6562
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1050
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1052.3438
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1054.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1057.0312
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1059.375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1061.7188
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1064.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1066.4062
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1068.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1071.0938
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1073.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1075.7812
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1078.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1080.4688
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1082.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1085.1562
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1087.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1089.8438
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1092.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1094.5312
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1096.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1099.2188
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1101.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1103.9062
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1106.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1108.5938
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1110.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1113.2812
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1115.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1117.9688
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1120.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1122.6562
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1127.3438
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1129.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1132.0312
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1134.375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1136.7188
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1139.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1141.4062
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1143.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1146.0938
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1148.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1150.7812
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1153.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1155.4688
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1157.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1160.1562
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1162.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1164.8438
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1167.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1169.5312
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1171.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1174.2188
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1176.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1178.9062
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1181.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1183.5938
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1185.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1188.2812
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1190.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1192.9688
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1195.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1197.6562
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1200
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1202.3438
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1204.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1207.0312
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1209.375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1211.7188
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1214.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1216.4062
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1218.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1221.0938
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1223.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1225.7812
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1228.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1230.4688
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1232.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1235.1562
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1237.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1239.8438
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1242.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1244.5312
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1246.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1249.2188
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1251.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1253.9062
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1256.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1258.5938
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1260.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1263.2812
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1265.625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1267.9688
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1270.3125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1272.6562
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1275
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1277.3438
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1279.6875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1282.0312
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1284.375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1286.7188
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1289.0625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1291.4062
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1293.75
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1296.0938
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1298.4375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1300.7812
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1303.125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1305.4688
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1307.8125
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1310.1562
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1312.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1314.8438
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1317.1875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1319.5312
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1321.875
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1324.2188
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1326.5625
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1328.9062
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1331.25
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1333.5938
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 128
+    xPos: 1335.9375
+    mainFret: 1
+    speed: 5
+    notePresent: 000000
+    noteKilled: 000000
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
