@@ -11,7 +11,7 @@ public class FretData
     public bool mainFret;
     public float speed;
 
-    public bool[] notePresent;
+    public bool[] notePresent = { false, false, false };
     public bool[] noteKilled;
     public Transform[] noteTransforms;
 

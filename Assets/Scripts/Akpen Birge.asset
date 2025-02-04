@@ -15,7 +15,7 @@ MonoBehaviour:
   saved: 0
   clip: {fileID: 8300000, guid: 0d49ff037f395cf49b05974db75ecd0d, type: 3}
   baseBPM: 128
-  numBeats: 626
+  numBeats: 574
   frets:
   - trans: {fileID: 0}
     bpm: 128
@@ -23,7 +23,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -35,7 +35,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -47,7 +47,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -59,7 +59,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -71,7 +71,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -83,7 +83,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -95,7 +95,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -107,7 +107,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -119,7 +119,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -131,7 +131,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -143,7 +143,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -155,7 +155,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -167,7 +167,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -179,7 +179,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -191,7 +191,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -203,7 +203,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -215,7 +215,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -227,7 +227,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -239,7 +239,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -251,7 +251,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -263,7 +263,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -275,7 +275,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -287,7 +287,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -299,7 +299,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -311,7 +311,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -323,7 +323,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -335,7 +335,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -347,7 +347,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -359,7 +359,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -371,7 +371,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -383,7 +383,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -394,8 +394,8 @@ MonoBehaviour:
     xPos: 72.65625
     mainFret: 1
     speed: 5
-    notePresent: 000001
-    noteKilled: 000000
+    notePresent: 010000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -406,8 +406,8 @@ MonoBehaviour:
     xPos: 75
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000001
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -418,8 +418,8 @@ MonoBehaviour:
     xPos: 77.34375
     mainFret: 1
     speed: 5
-    notePresent: 000001
-    noteKilled: 000000
+    notePresent: 010000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -430,8 +430,8 @@ MonoBehaviour:
     xPos: 79.6875
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000001
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -442,8 +442,8 @@ MonoBehaviour:
     xPos: 82.03125
     mainFret: 1
     speed: 5
-    notePresent: 000001
-    noteKilled: 000000
+    notePresent: 010000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -454,8 +454,8 @@ MonoBehaviour:
     xPos: 84.375
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000001
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -466,8 +466,8 @@ MonoBehaviour:
     xPos: 86.71875
     mainFret: 1
     speed: 5
-    notePresent: 000001
-    noteKilled: 000000
+    notePresent: 010000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -478,8 +478,8 @@ MonoBehaviour:
     xPos: 89.0625
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000001
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -490,8 +490,8 @@ MonoBehaviour:
     xPos: 91.40625
     mainFret: 1
     speed: 5
-    notePresent: 000001
-    noteKilled: 000000
+    notePresent: 010000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -502,8 +502,8 @@ MonoBehaviour:
     xPos: 93.75
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000001
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -514,8 +514,8 @@ MonoBehaviour:
     xPos: 96.09375
     mainFret: 1
     speed: 5
-    notePresent: 000001
-    noteKilled: 000000
+    notePresent: 010000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -526,8 +526,8 @@ MonoBehaviour:
     xPos: 98.4375
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000001
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -538,8 +538,8 @@ MonoBehaviour:
     xPos: 100.78125
     mainFret: 1
     speed: 5
-    notePresent: 000001
-    noteKilled: 000000
+    notePresent: 010000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -550,8 +550,8 @@ MonoBehaviour:
     xPos: 103.125
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000001
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -562,8 +562,8 @@ MonoBehaviour:
     xPos: 105.46875
     mainFret: 1
     speed: 5
-    notePresent: 000001
-    noteKilled: 000000
+    notePresent: 010000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -574,8 +574,8 @@ MonoBehaviour:
     xPos: 107.8125
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000001
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -587,19 +587,31 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 010000
-    noteKilled: 000000
+    noteKilled: 
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: intro
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 112.5
+    mainFret: 1
+    speed: 5
+    notePresent: 000100
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 128
-    xPos: 112.5
-    mainFret: 1
+    bpm: 256
+    xPos: 113.671875
+    mainFret: 0
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000001
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -611,19 +623,43 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 128
+    bpm: 256
+    xPos: 116.015625
+    mainFret: 0
+    speed: 5
+    notePresent: 000100
+    noteKilled: 
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
     xPos: 117.1875
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
+    noteTransforms:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    label: 
+  - trans: {fileID: 0}
+    bpm: 256
+    xPos: 118.359375
+    mainFret: 0
+    speed: 5
+    notePresent: 010000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -635,7 +671,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000100
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -647,7 +683,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -659,7 +695,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -671,7 +707,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 010000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -683,7 +719,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 010000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -695,7 +731,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000100
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -707,7 +743,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -719,7 +755,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -731,7 +767,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000100
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -743,7 +779,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -755,7 +791,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -767,7 +803,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 010000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -779,43 +815,43 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 010000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 150
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 152.34375
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 154.6875
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -826,8 +862,8 @@ MonoBehaviour:
     xPos: 157.03125
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -839,7 +875,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -851,7 +887,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -862,8 +898,8 @@ MonoBehaviour:
     xPos: 164.0625
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -874,44 +910,44 @@ MonoBehaviour:
     xPos: 166.40625
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 168.75
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 171.09375
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 173.4375
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -922,8 +958,8 @@ MonoBehaviour:
     xPos: 175.78125
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -935,7 +971,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -947,7 +983,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -958,8 +994,8 @@ MonoBehaviour:
     xPos: 182.8125
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -970,44 +1006,44 @@ MonoBehaviour:
     xPos: 185.15625
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 187.5
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 189.84375
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 192.1875
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1018,8 +1054,8 @@ MonoBehaviour:
     xPos: 194.53125
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1031,7 +1067,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1043,7 +1079,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1054,8 +1090,8 @@ MonoBehaviour:
     xPos: 201.5625
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1066,44 +1102,44 @@ MonoBehaviour:
     xPos: 203.90625
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 206.25
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 208.59375
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 210.9375
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1114,8 +1150,8 @@ MonoBehaviour:
     xPos: 213.28125
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1127,7 +1163,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1139,7 +1175,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1150,8 +1186,8 @@ MonoBehaviour:
     xPos: 220.3125
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1162,44 +1198,44 @@ MonoBehaviour:
     xPos: 222.65625
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 225
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 227.34375
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 229.6875
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1210,8 +1246,8 @@ MonoBehaviour:
     xPos: 232.03125
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1223,7 +1259,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1235,7 +1271,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1246,8 +1282,8 @@ MonoBehaviour:
     xPos: 239.0625
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1258,44 +1294,44 @@ MonoBehaviour:
     xPos: 241.40625
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 243.75
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 246.09375
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 248.4375
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1306,8 +1342,8 @@ MonoBehaviour:
     xPos: 250.78125
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1319,7 +1355,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1331,7 +1367,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1342,8 +1378,8 @@ MonoBehaviour:
     xPos: 257.8125
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1355,19 +1391,19 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
-    label: verse 1
+    label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 262.5
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1378,8 +1414,8 @@ MonoBehaviour:
     xPos: 264.84375
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1390,32 +1426,32 @@ MonoBehaviour:
     xPos: 267.1875
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 269.53125
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 271.875
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1427,7 +1463,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1439,7 +1475,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1451,31 +1487,31 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 281.25
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 283.59375
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1486,32 +1522,32 @@ MonoBehaviour:
     xPos: 285.9375
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 288.28125
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 290.625
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1523,7 +1559,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1535,7 +1571,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1547,31 +1583,31 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 300
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 302.34375
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1583,7 +1619,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1594,20 +1630,20 @@ MonoBehaviour:
     xPos: 307.03125
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 309.375
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1619,7 +1655,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1631,7 +1667,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1643,67 +1679,67 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 318.75
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 321.09375
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 323.4375
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 325.78125
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 328.125
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1715,7 +1751,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1726,8 +1762,8 @@ MonoBehaviour:
     xPos: 332.8125
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1739,7 +1775,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1751,55 +1787,55 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 339.84375
     mainFret: 1
     speed: 5
-    notePresent: 000001
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 342.1875
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 344.53125
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 346.875
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1811,7 +1847,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1822,8 +1858,8 @@ MonoBehaviour:
     xPos: 351.5625
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1835,7 +1871,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1847,43 +1883,43 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 358.59375
     mainFret: 1
     speed: 5
-    notePresent: 000001
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 360.9375
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 363.28125
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1895,7 +1931,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1906,8 +1942,8 @@ MonoBehaviour:
     xPos: 367.96875
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1918,8 +1954,8 @@ MonoBehaviour:
     xPos: 370.3125
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1931,7 +1967,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1943,31 +1979,31 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 377.34375
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 379.6875
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1979,7 +2015,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -1990,8 +2026,8 @@ MonoBehaviour:
     xPos: 384.375
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2002,8 +2038,8 @@ MonoBehaviour:
     xPos: 386.71875
     mainFret: 1
     speed: 5
-    notePresent: 000001
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2014,8 +2050,8 @@ MonoBehaviour:
     xPos: 389.0625
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2026,8 +2062,8 @@ MonoBehaviour:
     xPos: 391.40625
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2038,8 +2074,8 @@ MonoBehaviour:
     xPos: 393.75
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2050,8 +2086,8 @@ MonoBehaviour:
     xPos: 396.09375
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2062,8 +2098,8 @@ MonoBehaviour:
     xPos: 398.4375
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2074,8 +2110,8 @@ MonoBehaviour:
     xPos: 400.78125
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2087,7 +2123,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2099,7 +2135,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2111,7 +2147,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2123,7 +2159,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2135,67 +2171,67 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 414.84375
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 417.1875
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 419.53125
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 421.875
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 424.21875
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2207,7 +2243,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2219,7 +2255,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2231,19 +2267,19 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 433.59375
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2255,7 +2291,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2266,8 +2302,8 @@ MonoBehaviour:
     xPos: 438.28125
     mainFret: 1
     speed: 5
-    notePresent: 000001
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2278,8 +2314,8 @@ MonoBehaviour:
     xPos: 440.625
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2290,20 +2326,20 @@ MonoBehaviour:
     xPos: 442.96875
     mainFret: 1
     speed: 5
-    notePresent: 000100
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
     - {fileID: 0}
     label: 
   - trans: {fileID: 0}
-    bpm: 256
+    bpm: 128
     xPos: 445.3125
     mainFret: 1
     speed: 5
-    notePresent: 010000
-    noteKilled: 000000
+    notePresent: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2315,7 +2351,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2327,7 +2363,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2339,7 +2375,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2351,7 +2387,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2363,7 +2399,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2375,7 +2411,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2387,7 +2423,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2399,7 +2435,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2411,7 +2447,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2423,7 +2459,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2435,7 +2471,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2447,7 +2483,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2459,7 +2495,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2471,7 +2507,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2483,7 +2519,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2495,7 +2531,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2507,7 +2543,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2519,7 +2555,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2531,7 +2567,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2543,7 +2579,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2555,7 +2591,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2567,7 +2603,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2579,7 +2615,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2591,7 +2627,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2603,7 +2639,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2615,7 +2651,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2627,7 +2663,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2639,7 +2675,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2651,7 +2687,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2663,7 +2699,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2675,7 +2711,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2687,7 +2723,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2699,7 +2735,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2711,7 +2747,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2723,7 +2759,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2735,7 +2771,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2747,7 +2783,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2759,7 +2795,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2771,7 +2807,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2783,7 +2819,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2795,7 +2831,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2807,7 +2843,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2819,7 +2855,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2831,7 +2867,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2843,7 +2879,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2855,7 +2891,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2867,7 +2903,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2879,7 +2915,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2891,7 +2927,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2903,7 +2939,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2915,7 +2951,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2927,7 +2963,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2939,7 +2975,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2951,7 +2987,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2963,7 +2999,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2975,7 +3011,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2987,7 +3023,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -2999,7 +3035,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3011,7 +3047,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3023,7 +3059,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3035,7 +3071,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3047,7 +3083,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3059,7 +3095,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3071,7 +3107,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3083,7 +3119,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3095,7 +3131,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3107,7 +3143,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3119,7 +3155,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3131,7 +3167,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3143,7 +3179,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3155,7 +3191,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3167,7 +3203,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3179,7 +3215,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3191,7 +3227,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3203,7 +3239,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3215,7 +3251,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3227,7 +3263,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3239,7 +3275,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3251,7 +3287,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3263,7 +3299,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3275,7 +3311,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3287,7 +3323,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3299,7 +3335,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3311,7 +3347,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3323,7 +3359,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3335,7 +3371,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3347,7 +3383,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3359,7 +3395,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3371,7 +3407,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3383,7 +3419,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3395,7 +3431,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3407,7 +3443,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3419,7 +3455,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3431,7 +3467,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3443,7 +3479,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3455,7 +3491,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3467,7 +3503,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3479,7 +3515,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3491,7 +3527,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3503,7 +3539,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3515,7 +3551,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3527,7 +3563,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3539,7 +3575,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3551,7 +3587,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3563,7 +3599,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3575,7 +3611,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3587,7 +3623,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3599,7 +3635,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3611,7 +3647,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3623,7 +3659,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3635,7 +3671,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3647,7 +3683,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3659,7 +3695,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3671,7 +3707,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3683,7 +3719,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3695,7 +3731,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3707,7 +3743,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3719,7 +3755,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3731,7 +3767,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3743,7 +3779,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3755,7 +3791,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3767,7 +3803,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3779,7 +3815,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3791,7 +3827,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3803,7 +3839,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3815,7 +3851,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3827,7 +3863,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3839,7 +3875,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3851,7 +3887,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3863,7 +3899,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3875,7 +3911,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3887,7 +3923,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3899,7 +3935,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3911,7 +3947,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3923,7 +3959,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3935,7 +3971,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3947,7 +3983,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3959,7 +3995,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3971,7 +4007,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3983,7 +4019,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -3995,7 +4031,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4007,7 +4043,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4019,7 +4055,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4031,7 +4067,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4043,7 +4079,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4055,7 +4091,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4067,7 +4103,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4079,7 +4115,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4091,7 +4127,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4103,7 +4139,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4115,7 +4151,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4127,7 +4163,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4139,7 +4175,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4151,7 +4187,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4163,7 +4199,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4175,7 +4211,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4187,7 +4223,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4199,7 +4235,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4211,7 +4247,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4223,7 +4259,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4235,7 +4271,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4247,7 +4283,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4259,7 +4295,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4271,7 +4307,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4283,7 +4319,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4295,7 +4331,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4307,7 +4343,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4319,7 +4355,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4331,7 +4367,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4343,7 +4379,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4355,7 +4391,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4367,7 +4403,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4379,7 +4415,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4391,7 +4427,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4403,7 +4439,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4415,7 +4451,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4427,7 +4463,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4439,7 +4475,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4451,7 +4487,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4463,7 +4499,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4475,7 +4511,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4487,7 +4523,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4499,7 +4535,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4511,7 +4547,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4523,7 +4559,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4535,7 +4571,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4547,7 +4583,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4559,7 +4595,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4571,7 +4607,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4583,7 +4619,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4595,7 +4631,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4607,7 +4643,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4619,7 +4655,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4631,7 +4667,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4643,7 +4679,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4655,7 +4691,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4667,7 +4703,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4679,7 +4715,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4691,7 +4727,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4703,7 +4739,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4715,7 +4751,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4727,7 +4763,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4739,7 +4775,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4751,7 +4787,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4763,7 +4799,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4775,7 +4811,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4787,7 +4823,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4799,7 +4835,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4811,7 +4847,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4823,7 +4859,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4835,7 +4871,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4847,7 +4883,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4859,7 +4895,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4871,7 +4907,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4883,7 +4919,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4895,7 +4931,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4907,7 +4943,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4919,7 +4955,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4931,7 +4967,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4943,7 +4979,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4955,7 +4991,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4967,7 +5003,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4979,7 +5015,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -4991,7 +5027,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5003,7 +5039,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5015,7 +5051,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5027,7 +5063,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5039,7 +5075,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5051,7 +5087,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5063,7 +5099,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5075,7 +5111,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5087,7 +5123,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5099,7 +5135,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5111,7 +5147,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5123,7 +5159,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5135,7 +5171,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5147,7 +5183,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5159,7 +5195,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5171,7 +5207,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5183,7 +5219,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5195,7 +5231,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5207,7 +5243,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5219,7 +5255,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5231,7 +5267,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5243,7 +5279,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5255,7 +5291,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5267,7 +5303,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5279,7 +5315,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5291,7 +5327,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5303,7 +5339,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5315,7 +5351,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5327,7 +5363,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5339,7 +5375,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5351,7 +5387,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5363,7 +5399,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5375,7 +5411,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5387,7 +5423,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5399,7 +5435,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5411,7 +5447,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5423,7 +5459,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5435,7 +5471,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5447,7 +5483,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5459,7 +5495,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5471,7 +5507,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5483,7 +5519,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5495,7 +5531,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5507,7 +5543,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5519,7 +5555,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5531,7 +5567,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5543,7 +5579,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5555,7 +5591,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5567,7 +5603,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5579,7 +5615,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5591,7 +5627,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5603,7 +5639,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5615,7 +5651,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5627,7 +5663,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5639,7 +5675,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5651,7 +5687,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5663,7 +5699,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5675,7 +5711,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5687,7 +5723,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5699,7 +5735,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5711,7 +5747,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5723,7 +5759,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5735,7 +5771,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5747,7 +5783,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5759,7 +5795,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5771,7 +5807,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5783,7 +5819,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5795,7 +5831,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5807,7 +5843,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5819,7 +5855,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5831,7 +5867,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5843,7 +5879,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5855,7 +5891,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5867,7 +5903,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5879,7 +5915,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5891,7 +5927,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5903,7 +5939,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5915,7 +5951,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5927,7 +5963,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5939,7 +5975,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5951,7 +5987,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5963,7 +5999,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5975,7 +6011,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5987,7 +6023,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -5999,7 +6035,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6011,7 +6047,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6023,7 +6059,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6035,7 +6071,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6047,7 +6083,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6059,7 +6095,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6071,7 +6107,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6083,7 +6119,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6095,7 +6131,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6107,7 +6143,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6119,7 +6155,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6131,7 +6167,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6143,7 +6179,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6155,7 +6191,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6167,7 +6203,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6179,7 +6215,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6191,7 +6227,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6203,7 +6239,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6215,7 +6251,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6227,7 +6263,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6239,7 +6275,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6251,7 +6287,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6263,7 +6299,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6275,7 +6311,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6287,7 +6323,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6299,7 +6335,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6311,7 +6347,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6323,7 +6359,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6335,7 +6371,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6347,7 +6383,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6359,7 +6395,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6371,7 +6407,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6383,7 +6419,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6395,7 +6431,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6407,7 +6443,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6419,7 +6455,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6431,7 +6467,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6443,7 +6479,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6455,7 +6491,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6467,7 +6503,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6479,7 +6515,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6491,7 +6527,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6503,7 +6539,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6515,7 +6551,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6527,7 +6563,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6539,7 +6575,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6551,7 +6587,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6563,7 +6599,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6575,7 +6611,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6587,7 +6623,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6599,7 +6635,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6611,7 +6647,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6623,7 +6659,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6635,7 +6671,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6647,7 +6683,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6659,7 +6695,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6671,7 +6707,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6683,7 +6719,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6695,7 +6731,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6707,7 +6743,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6719,7 +6755,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6731,7 +6767,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6743,7 +6779,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6755,7 +6791,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6767,7 +6803,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6779,7 +6815,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6791,7 +6827,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6803,7 +6839,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6815,7 +6851,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6827,7 +6863,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6839,7 +6875,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6851,7 +6887,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}
@@ -6863,667 +6899,7 @@ MonoBehaviour:
     mainFret: 1
     speed: 5
     notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
-    noteTransforms:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    label: 
-  - trans: {fileID: 0}
-    bpm: 128
-    xPos: 1335.9375
-    mainFret: 1
-    speed: 5
-    notePresent: 000000
-    noteKilled: 000000
+    noteKilled: 
     noteTransforms:
     - {fileID: 0}
     - {fileID: 0}

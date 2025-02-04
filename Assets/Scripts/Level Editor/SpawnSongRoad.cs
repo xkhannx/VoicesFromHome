@@ -40,14 +40,16 @@ public class SpawnSongRoad : MonoBehaviour
     float beatTime;
     float beatLen;
     public bool resetSong;
+    int numBeats = 0;
     public void SpawnFrets()
     {
         if (song.frets != null && !resetSong)
         {
-            frets = song.frets;
+            frets = new List<FretData>(song.frets);
             bpmText.text = frets[0].bpm.ToString();
+            numBeats = song.numBeats;
 
-            for (int i = 0; i < song.numBeats; i++)
+            for (int i = 0; i < numBeats; i++)
             {
                 FretData newFret = frets[i];
                 if (newFret.trans != null) Destroy(newFret.trans.gameObject);
@@ -66,9 +68,9 @@ public class SpawnSongRoad : MonoBehaviour
 
             beatTime = 60 / song.baseBPM;
             beatLen = beatTime * moveSpeed;
-            song.numBeats = Mathf.RoundToInt(music.clip.length / beatTime);
+            numBeats = Mathf.RoundToInt(music.clip.length / beatTime);
             
-            for (int i = 0; i < song.numBeats; i++)
+            for (int i = 0; i < numBeats; i++)
             {
                 FretData newFret = new FretData();
                 newFret.trans = Instantiate(fretPrefab, fretParent);
@@ -229,7 +231,7 @@ public class SpawnSongRoad : MonoBehaviour
             FretData deadFret = frets[curFretInd + 1];
             frets.RemoveAt(curFretInd + 1);
             Destroy(deadFret.trans.gameObject);
-            song.numBeats--;
+            numBeats--;
         }
 
         beatLen = frets[curFretInd + 1].xPos - frets[curFretInd].xPos;
@@ -247,6 +249,7 @@ public class SpawnSongRoad : MonoBehaviour
         FretData newFret = new FretData();
         newFret.trans = Instantiate(subfretPrefab, fretParent);
         newFret.bpm = frets[curFretInd].bpm;
+        newFret.mainFret = false;
         newFret.speed = frets[curFretInd].speed;
         newFret.notePresent = new bool[3];
         newFret.noteTransforms = new Transform[3];
@@ -257,9 +260,9 @@ public class SpawnSongRoad : MonoBehaviour
 
         newFret.xPos = frets[curFretInd].xPos + beatLen;
         newFret.trans.position = Vector3.right * (newFret.xPos);
-        
+
         frets.Insert(curFretInd + 1, newFret);
-        song.numBeats++;
+        numBeats++;
     }
 
     private void UpdateBPM(float bpmChange)
@@ -387,9 +390,10 @@ public class SpawnSongRoad : MonoBehaviour
     }
     #endregion
 
-    //    private void OnDisable()
-    //    {
-    //        song.frets = new List<FretData>(frets);
-    //        UnityEditor.EditorUtility.SetDirty(song);
-    //    }
+    public void SaveSong()
+    {
+        song.frets = new List<FretData>(frets);
+        song.numBeats = numBeats;
+        UnityEditor.EditorUtility.SetDirty(song);
+    }
 }
